@@ -1,6 +1,5 @@
 OUT_DIR=out
 rm -rf ${OUT_DIR}
-
 SRC_DIR=src/CSCI485ClassProject
 
 mkdir -p ${OUT_DIR}
