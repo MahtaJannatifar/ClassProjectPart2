@@ -12,6 +12,13 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <manifest>
+            <addClasspath>true</addClasspath>
+            <mainClass>com.mkyong.core.App</mainClass>
+            <classpathPrefix>dependency-jars/</classpathPrefix>
+        </manifest>
     </properties>
+
+
 
 </project>
