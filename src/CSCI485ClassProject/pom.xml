@@ -20,8 +20,8 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>part1Test</mainClass>
-                        <classpathPrefix>dependency-jars/</classpathPrefix>
+                        <mainClass>test</mainClass>
+                        <classpathPrefix>junit-4.12.jar</classpathPrefix>
                     </manifest>
                 </archive>
             </configuration>
