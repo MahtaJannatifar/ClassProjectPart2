@@ -14,8 +14,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <manifest>
             <addClasspath>true</addClasspath>
-            <mainClass>part1Test</mainClass>
-            <classpathPrefix>test</classpathPrefix>
+            <mainClass>test</mainClass>
+            <classpathPrefix>part1Test</classpathPrefix>
         </manifest>
     </properties>
 
