@@ -3,7 +3,6 @@ package CSCI485ClassProject;
  * StatusCode defines the status code that may returns by the {TableManager}
  */
 public enum StatusCode {
-
   SUCCESS,
   INTERNAL_STORAGE_FAILURE,
 
