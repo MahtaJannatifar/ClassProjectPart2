@@ -1,4 +1,4 @@
-package CSCI485ClassProject.models;
+package src.models;
 
 import com.apple.foundationdb.Database;
 import com.apple.foundationdb.FDB;

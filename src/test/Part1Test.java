@@ -1,11 +1,11 @@
-package CSCI485ClassProject.test;
+package src.test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import CSCI485ClassProject.StatusCode;
-import CSCI485ClassProject.models.AttributeType;
-import CSCI485ClassProject.TableManager;
-import CSCI485ClassProject.TableManagerImpl;
-import CSCI485ClassProject.models.TableMetadata;
+import src.StatusCode;
+import src.models.AttributeType;
+import src.TableManager;
+import src.TableManagerImpl;
+import src.models.TableMetadata;
 import org.junit.Before;
 import org.junit.Test;
 

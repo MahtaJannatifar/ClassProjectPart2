@@ -1,4 +1,4 @@
-package CSCI485ClassProject.models;
+package src.models;
 
 public enum ComparisonOperator {
   EQUAL_TO,

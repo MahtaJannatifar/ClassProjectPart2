@@ -1,21 +1,19 @@
-package CSCI485ClassProject;
+package src;
 
 
-import CSCI485ClassProject.StatusCode;
-import CSCI485ClassProject.TableManager;
-import CSCI485ClassProject.models.AttributeType;
-import CSCI485ClassProject.models.TableMetadata;
-import  CSCI485ClassProject.models.FDBHelper;
-import CSCI485ClassProject.models.FDBKVPair;
-import  CSCI485ClassProject.models.TableMetadataTransformer;
+import src.models.AttributeType;
+import src.models.TableMetadata;
+import src.models.FDBHelper;
+import src.models.FDBKVPair;
+import src.models.TableMetadataTransformer;
 import java.util.HashMap;
 import com.apple.foundationdb.Database;
 import com.apple.foundationdb.Transaction;
 import com.apple.foundationdb.directory.DirectorySubspace;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 
 /**

@@ -1,6 +1,6 @@
-package CSCI485ClassProject.models;
+package src.models;
 
-import CSCI485ClassProject.StatusCode;
+import src.StatusCode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

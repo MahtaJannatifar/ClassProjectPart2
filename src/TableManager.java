@@ -1,9 +1,9 @@
-package CSCI485ClassProject;
+package src;
 
 import java.util.HashMap;
-import CSCI485ClassProject.StatusCode;
-import CSCI485ClassProject.models.AttributeType;
-import CSCI485ClassProject.models.TableMetadata;
+
+import src.models.AttributeType;
+import src.models.TableMetadata;
 
 /**
  * TableManager defines the interfaces that need to be implemented to support the table

@@ -1,4 +1,4 @@
-package src.CSCI485ClassProject;
+package src;
 /**
  * StatusCode defines the status code that may returns by the {TableManager}
  */

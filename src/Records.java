@@ -1,7 +1,7 @@
-package CSCI485ClassProject;
+package src;
 
-import CSCI485ClassProject.models.ComparisonOperator;
-import CSCI485ClassProject.models.Record;
+import src.models.ComparisonOperator;
+import src.models.Record;
 
 /**
  * DataRecordManager manages the data stored by the certain table. It provides interfaces to

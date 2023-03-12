@@ -1,15 +1,15 @@
-package CSCI485ClassProject.test;
+package src.test;
 
-import CSCI485ClassProject.Cursor;
-import CSCI485ClassProject.Records;
-import CSCI485ClassProject.RecordsImpl;
-import CSCI485ClassProject.StatusCode;
-import CSCI485ClassProject.TableManager;
-import CSCI485ClassProject.TableManagerImpl;
-import CSCI485ClassProject.models.AttributeType;
-import CSCI485ClassProject.models.ComparisonOperator;
-import CSCI485ClassProject.models.Record;
-import CSCI485ClassProject.models.TableMetadata;
+import src.Cursor;
+import src.Records;
+import src.RecordsImpl;
+import src.StatusCode;
+import src.TableManager;
+import src.TableManagerImpl;
+import src.models.AttributeType;
+import src.models.ComparisonOperator;
+import src.models.Record;
+import src.models.TableMetadata;
 import org.junit.Before;
 import org.junit.Test;
 

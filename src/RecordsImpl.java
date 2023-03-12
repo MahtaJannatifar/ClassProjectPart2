@@ -1,7 +1,7 @@
-package CSCI485ClassProject;
+package src;
 
-import CSCI485ClassProject.models.ComparisonOperator;
-import CSCI485ClassProject.models.Record;
+import src.models.ComparisonOperator;
+import src.models.Record;
 
 public class RecordsImpl implements Records{
 

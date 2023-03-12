@@ -1,4 +1,4 @@
-package CSCI485ClassProject;
+package src;
 
 public class Cursor {
   public enum Mode {

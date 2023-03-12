@@ -1,7 +1,7 @@
-package CSCI485ClassProject.models;
+package src.models;
 
 
-import CSCI485ClassProject.StatusCode;
+import src.StatusCode;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,8 +9,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 
-import static CSCI485ClassProject.StatusCode.ATTRIBUTE_TYPE_NOT_SUPPORTED;
-import static CSCI485ClassProject.StatusCode.SUCCESS;
+import static src.StatusCode.ATTRIBUTE_TYPE_NOT_SUPPORTED;
+import static src.StatusCode.SUCCESS;
 
 /**
  * Record represents the data stored in the database

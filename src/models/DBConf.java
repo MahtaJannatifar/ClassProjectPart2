@@ -1,4 +1,4 @@
-package CSCI485ClassProject.models;
+package src.models;
 
 import java.util.Collections;
 import java.util.List;
