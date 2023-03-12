@@ -1,8 +1,6 @@
 package CSCI485ClassProject.test;
-
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-
 import CSCI485ClassProject.StatusCode;
 import CSCI485ClassProject.models.AttributeType;
 import CSCI485ClassProject.TableManager;
