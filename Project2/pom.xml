@@ -14,8 +14,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <manifest>
             <addClasspath>true</addClasspath>
-            <mainClass>com.mkyong.core.App</mainClass>
-            <classpathPrefix>dependency-jars/</classpathPrefix>
+            <mainClass>part1Test</mainClass>
+            <classpathPrefix>junit-4.12.jar</classpathPrefix>
         </manifest>
     </properties>
 
